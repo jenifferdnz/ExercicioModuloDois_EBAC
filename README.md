@@ -1,2 +1,2 @@
-# ExercicioModuloDois_EBAC
+# Exercicio_EBAC
 Exercício Módulo dois EBAC
