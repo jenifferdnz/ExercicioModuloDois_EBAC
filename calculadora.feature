@@ -12,7 +12,7 @@
 
             Esquema do Cenário: Autenticar soma de 2 números
             Quando eu digitar <numero> somando os dois
-            Então deve exibir a <mensagem> e o <resultado>
+            Então deve exibir a <mensagem> e a soma do <resultado>
 
             Exemplos:
             | numero | mensagem        | resultado |
