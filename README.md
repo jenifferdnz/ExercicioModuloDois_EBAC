@@ -1,2 +1,2 @@
-# Exercicio_EBAC
+# Estudos de BDD com práticas em gherkin
 Exercício Módulo dois EBAC
